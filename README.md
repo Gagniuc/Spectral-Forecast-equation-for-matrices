@@ -11,9 +11,10 @@ Please read more about Spectral Forecast here:
 [Algorithms in Bioinformatics: Theory and Implementation](https://www.wiley.com/en-ag/Algorithms+in+Bioinformatics%3A+Theory+and+Implementation-p-9781119697961)
  
  # Live demo
-Live demo: https://gagniuc.github.io/Spectral-Forecast-equation-for-matrices/
+ 
+**Live demo**: https://gagniuc.github.io/Spectral-Forecast-equation-for-matrices/
 
-<kbd><img src="https://github.com/Gagniuc/Spectral-Forecast-equation-for-matrices/blob/main/%5BG%5D%20Spectral%20Forecast%20equation%20for%20matrices.png" /></kbd>
+<kbd><img src="https://github.com/Gagniuc/Spectral-Forecast-equation-for-matrices/blob/main/img/Spectral%20Forecast%20equation%20for%20matrices.png?raw=true" /></kbd>
 
 # References
 
